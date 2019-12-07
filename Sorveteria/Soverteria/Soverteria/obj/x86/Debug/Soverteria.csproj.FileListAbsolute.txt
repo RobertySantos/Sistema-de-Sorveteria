@@ -1,0 +1,81 @@
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.csproj.GenerateResource.Cache
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+C:\Users\aluno15\Desktop\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.csproj.GenerateResource.Cache
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroCliente.resources
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroCliente.resources
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.read.1.tlog
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.write.1.tlog
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+K:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroFornecedor.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroCliente.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroFornecedor.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.csproj.GenerateResource.Cache
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.csprojResolveAssemblyReference.cache
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroFormaPagto.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroCategoria.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroUsuario.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.csprojResolveAssemblyReference.cache
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroFormaPagto.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroCategoria.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroUsuario.resources
+E:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.Cadastro.resources
+D:\Arquivos\ETEC\3ºETIM\DS\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.Cadastro.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroFormaPagto.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.Cadastro.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroCategoria.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroCliente.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroFornecedor.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroUsuario.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.exe
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.pdb
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.exe
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\bin\Debug\Soverteria.pdb
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroFormaPagto.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.Cadastro.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroCategoria.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.CadastroCliente.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroFornecedor.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.View.CadastroUsuario.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Principal.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Properties.Resources.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\Soverteria.Splash.resources
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Tecnology\3ºEtim\Tecnico\DS\2 Semestre\Xulia\Sorveteria\Soverteria\Soverteria\obj\x86\Debug\GenerateResource.write.1.tlog
